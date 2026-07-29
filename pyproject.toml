@@ -1,5 +1,5 @@
 [project]
-name = "bocha-search-mcp"
+name = "bob56621517-bocha-search-mcp"
 version = "0.0.1"
 description = "A"
 readme = "README.md"
@@ -18,4 +18,4 @@ requires = [ "hatchling",]
 build-backend = "hatchling.build"
 
 [project.scripts]
-bocha-search-mcp = "bocha_search_mcp:main"
+bob56621517-bocha-search-mcp = "bocha_search_mcp:main"
